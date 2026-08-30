@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.12.2" orientation="orthogonal" renderorder="right-down" width="102" height="102" tilewidth="40" tileheight="40" infinite="0" nextlayerid="12" nextobjectid="169">
+<map version="1.11" tiledversion="1.12.2" orientation="orthogonal" renderorder="right-down" width="102" height="102" tilewidth="40" tileheight="40" infinite="0" nextlayerid="12" nextobjectid="169">
  <editorsettings>
   <export target="data.lua" format="lua"/>
  </editorsettings>
@@ -691,7 +691,7 @@
    </properties>
    <point/>
   </object>
-  <object id="3" name="filter" x="40" y="0">
+  <object id="3" name="filter" x="40" y="-10">
    <properties>
     <property name="hue_start" value="0"/>
     <property name="hue_target" value="0"/>
